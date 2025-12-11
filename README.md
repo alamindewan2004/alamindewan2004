@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently persuing MCA from bodoland<br>i am currently learning data science
+I'm currently persuing MCA from Bodoland University<br>i am currently learning data science
 
 
 ## 🌐 Socials:
